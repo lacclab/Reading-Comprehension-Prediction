@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shubi"
+    given-names: "Omer"
+    orcid: "https://orcid.org/0000-0002-2961-5012"
+  - family-names: "Meiri"
+    given-names: "Yoav"
+  - family-names: "Hadar"
+    given-names: "Cfir Avraham"
+  - family-names: "Berzak"
+    given-names: "Yevgeni"
+title: "Reading-Comprehension-Prediction"
+version: "1.0.0"
+doi: ""
+date-released: "2024-10-13"
+url: "https://github.com/lacclab/Reading-Comprehension-Prediction"
